@@ -1,4 +1,4 @@
-Django==1.8
+Django==1.11.29
 EasyProcess==0.3
 pkg-resources==0.0.0
 PyVirtualDisplay==1.3.2
