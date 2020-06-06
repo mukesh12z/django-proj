@@ -1,0 +1,12 @@
+1591101523078	mozrunner::runner	INFO	Running command: "/mnt/c/Program Files/Mozilla Firefox/firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegWVdkk"
+*** You are running in headless mode.
+Error: argument --profile requires a path
+1591101578822	mozrunner::runner	INFO	Running command: "/mnt/c/Program Files/Mozilla Firefox/firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileog2ydR"
+*** You are running in headless mode.
+Error: argument --profile requires a path
+1591101669812	mozrunner::runner	INFO	Running command: "/mnt/c/Program Files/Mozilla Firefox/firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYYxmz3"
+*** You are running in headless mode.
+Error: argument --profile requires a path
+1591101994903	mozrunner::runner	INFO	Running command: "/mnt/c/Program Files/Mozilla Firefox/firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileor2Jlz"
+*** You are running in headless mode.
+Error: argument --profile requires a path
